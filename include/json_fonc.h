@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** json fonc
-** File description:
-** fonc json
-*/
-
 #ifndef JSON_FONC_H
 #define JSON_FONC_H
 

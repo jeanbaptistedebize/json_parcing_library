@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** parseur_json
-** File description:
-** get_ellement
-*/
-
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>

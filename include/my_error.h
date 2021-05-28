@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** header for error gestion
-** File description:
-** var + fonc
-*/
-
 #ifndef MY_ERROR_H_
 #define MY_ERROR_H_
 

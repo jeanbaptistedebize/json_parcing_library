@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** jsonlib
-** File description:
-** get data
-*/
-
 #include <string.h>
 #include "struct_json.h"
 

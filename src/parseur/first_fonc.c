@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** stummper
-** File description:
-** first_fonc
-*/
-
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>

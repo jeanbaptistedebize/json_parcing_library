@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** fill buffer from file
-** File description:
-** return a buffer fill from a file
-*/
-
 #include <stdlib.h>
 #include <sys/stat.h>
 #include <fcntl.h>

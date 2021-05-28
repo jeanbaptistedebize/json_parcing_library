@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2020
-## makefile
-## File description:
-## make my lib
-##
-
 SRC =		src/parseur/get_ellement_json.c 			\
 			src/parseur/string_json.c 					\
 			src/parseur/first_fonc.c 					\

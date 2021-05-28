@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** stummper1
-** File description:
-** my_error_exit
-*/
-
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>

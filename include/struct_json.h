@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** parseur json
-** File description:
-** parsuer json
-*/
-
 #ifndef STRUCT_JSON_H
 #define STRUCT_JSON_H
 

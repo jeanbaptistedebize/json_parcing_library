@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** lib_json
-** File description:
-** free json struct
-*/
-
 #include <stdlib.h>
 #include "struct_json.h"
 

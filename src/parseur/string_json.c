@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** json_parseur
-** File description:
-** fonc to parse string
-*/
-
 #include <string.h>
 #include "my_error.h"
 #include "struct_json.h"

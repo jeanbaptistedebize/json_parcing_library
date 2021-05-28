@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** parseur json
-** File description:
-** printjson
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
